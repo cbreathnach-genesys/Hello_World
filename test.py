@@ -10,3 +10,6 @@ x = 3.0
 y = 0.5
 
 print(x+y)
+
+# Add new feature here
+print("Hello")
